@@ -1,4 +1,4 @@
-## 欢迎访问我的主页 【English version】
+## Wave Propagation and Inverse Problem
 
 I am currently Associate Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences.
 
