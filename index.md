@@ -1,4 +1,4 @@
-# ![Wave Propagation and Inverse Problem](L_3d_iso04.jpg)
+# ![Wave Propagation and Inverse Problem](/L_3d_iso04.jpg)
 ## Shixu Meng 
 
 Dr. Meng is currently Associate Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. Dr. Meng is interested in `wave propagation and its inverse problems`. His long-term research goal is to address interdisciplinary challenges spanning science, engineering, and technology. His research has been focused on (1) Inverse acoustic and electromagnetic scattering, (2) eigenvalue problems and non-destructive testing in inhomogeneous media, and (3) wave propagation in periodic and complex media.
