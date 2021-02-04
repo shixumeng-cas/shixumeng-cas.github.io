@@ -1,10 +1,14 @@
 ## Shixu Meng 
 
-Dr. Meng is currently Associate Professor at the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. Dr. Meng is interested in `wave propagation and its inverse problems`. His long-term research goal is to address interdisciplinary challenges spanning science, engineering, and technology. His research has been focused on (1) Inverse acoustic and electromagnetic scattering, (2) eigenvalue problems and non-destructive testing in inhomogeneous media, and (3) wave propagation in periodic and complex media.
+- Associate Professor, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China. 
+- Research interests: `wave propagation and its inverse problems`
+  - Inverse acoustic and electromagnetic scattering
+  - Eigenvalue problems and non-destructive testing in inhomogeneous media
+  - Wave propagation in periodic and complex media
 
-## 最新动态
 
 ### **recent papers**
+
 
 - A Note on Transmission Eigenvalues in Electromagnetic Scattering Theory, submitted (2020) (with F. Cakoni and J. Xiao)
 - [On the spectral asymptotics of waves in periodic media with Dirichlet or Neumann exclusions](https://arxiv.org/abs/2007.15162?context=math.NA), arXiv:2007.15162 (2020) (with B. Guzina and O. Oudghiri-Idrissi)
